@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ahammedkm"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="banner" href="" height="20"></a>
-  <a href="https://www.linkedin.com/in/ahammedkm/"><img src="https://img.shields.io/badge/LinkedIn-ahammedkm-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/ahammedkm/"></a>
+  <a href="https://www.linkedin.com/in/ahammed/"><img src="https://img.shields.io/badge/LinkedIn-ahammed-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/ahammed/"></a>
   <a href="https://stackoverflow.com/users/1149245/ahammed-k-m"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" height="20" alt="Stackoverflow" href="https://stackoverflow.com/users/1149245/ahammed-k-m"/></a>
   <a href="https://ahammedkm.com"><img src="https://img.shields.io/badge/Website-ahmmedkm.com-red?style=flat-square" alt="Website" href="https://ahammedkm.com"/></a>
   </br>
