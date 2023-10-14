@@ -11,16 +11,16 @@
 
 Director of Engineering - Front End.
 
-I currently work at [YouGotaGift.com](https://yougotagift.com/) where I lead a team of 10+ front end developers.
+I currently work at [YouGotaGift.com](https://yougotagift.com/) where I lead a team of 15+ front end developers.
 
 I formerly worked with [Tata Consultancy Services](https://tcs.com/) and [IBS Software](https://www.ibsplc.com/) as Tech Lead in various frontend development projects.
 
 PROFILE
 <!-- PROFILE-LIST:START -->
-- Overall 13 years of experience in Front-end development.
+- Overall 14 years of experience in Front-end development.
 - 3+ years of overseas experience with South African Airways and Nedbank Ltd, South Africa.
 - Experience in various domains like Airline, Banking, E-Commerce, Insurance, Health Care, M2M, Social Media, Gift Cards etc.
-- Heading the front-end development team of 10+ members.
+- Heading the front-end development team of 15+ members.
 - Created various B2B, B2C applications using React, Next JS, GraphQL, AWS, Redux Toolkit, Context API, React Hooks, MUI, AntD, SCSS modules, Styled components etc.
 - Providing technical expertise for every phase of the project lifecycle; from concept development to solution design, implementation, optimisation and support.
 - Responsible for maintaining code quality and best practices and code reviews.
